@@ -2,15 +2,15 @@
 <h3 align="center">CSE final year at IIIT-Naya Raipur || Ex-Intern at Esequio Technologies || Competitive Programmer || Hackerrank Gold Badge in C++ and MYSQL</h3
 
 
-- 🔭 I’m currently working on **MERN STACK**
+ 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **MERN STACK**
+ 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-indol-chi.vercel.app/](https://personal-portfolio-indol-chi.vercel.app/)
+ 👨‍💻 All of my projects are available at [https://personal-portfolio-indol-chi.vercel.app/](https://personal-portfolio-indol-chi.vercel.app/)
 
-- 💬 Ask me about **Competitive programming, C++ and MYSQL**
+ 💬 Ask me about **Competitive programming, C++ and MYSQL**
 
-- 📫 How to reach me **shreedhar19oct@gmail.com**
+ 📫 How to reach me **shreedhar19oct@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
