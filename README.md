@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreedhar Tiwari</h1>
-<h3 align="center">Software Developer at Accelya || CSE final year at IIIT-Naya Raipur || Ex-Intern at Esequio Technologies || Competitive Programmer || Hackerrank Gold Badge in C++ and MYSQL</h3
+<h3 align="center">Software Developer at Accelya || CSE GRADUATE FROM IIIT-Naya Raipur || Ex-Intern at Esequio Technologies || Hackerrank Gold Badge in C++ and MYSQL</h3
 
 
  🔭 I’m currently working on **C++ TECH STACK**
