@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shreedhar Tiwari</h1>
-<h3 align="center">CSE final year at IIIT-Naya Raipur || Ex-Intern at Esequio Technologies || Competitive Programmer || Hackerrank Gold Badge in C++ and MYSQL</h3
+<h3 align="center">Software Developer at Accelya || CSE final year at IIIT-Naya Raipur || Ex-Intern at Esequio Technologies || Competitive Programmer || Hackerrank Gold Badge in C++ and MYSQL</h3
 
 
- 🔭 I’m currently working on **JAVA FULL STACK**
+ 🔭 I’m currently working on **C++ TECH STACK**
 
- 🌱 I’m currently learning **SPRING BOOT**
+ 🌱 I’m currently learning **JAVASCRIPT**
 
  👨‍💻 All of my projects are available at [https://personal-portfolio-indol-chi.vercel.app/](https://personal-portfolio-indol-chi.vercel.app/)
 
