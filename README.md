@@ -2,9 +2,9 @@
 <h3 align="center">Software Developer at Accelya || CSE Graduate from IIIT-Naya Raipur || Ex-Intern at Esequio Technologies || Hackerrank Gold Badge in C++ and MYSQL</h3
 
 
- 🔭 I’m currently working on **C++ TECH STACK**
+ 🔭 I’m currently working on **C++/NodeJS TECH STACK**
 
- 🌱 I’m currently learning **JAVASCRIPT**
+ 🌱 I’m currently learning **TYPESCRIPT**
 
  👨‍💻 All of my projects are available at [https://personal-portfolio-indol-chi.vercel.app/](https://personal-portfolio-indol-chi.vercel.app/)
 
